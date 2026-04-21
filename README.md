@@ -15,7 +15,7 @@
         <nav>
             <a href="#profil">Profil</a>
             <a href="#pendidikan">Pendidikan</a>
-            <a href="#Hobi">Pengalaman</a>
+            <a href="#Hobi">Hobi</a>
             <a href="#kontak">Kontak</a>
         </nav>
     </div>
@@ -66,7 +66,7 @@
             </tr>
         </table>
 
-        <h3 id="Hobi">HOBI</h3>
+        <h3 id="Hobi">Hobi</h3>
         <p><b>Bermain Game</b></p>
       <ul>
             <li>MCGG</li>

@@ -26,7 +26,7 @@
 
     <!-- SIDEBAR -->
     <div class="sidebar">
-        <img src="file:///C:/Users/eiraf/Videos/bahan%20Foto%20Edit/Golden__R__surrounded_by_blue_flames-removebg-preview.png" class="profile-img">
+        <img src="https://drive.google.com/file/d/1xKdqNLi1GrkoJzPE1cyOk4D5YaPgOI7d/view?usp=sharing" class="profile-img">
 
         <h1>BIODATA</h1>
         <p><b>Nama</b><br>Rafli</p>
@@ -36,7 +36,7 @@
         <p><b>Kewarganegaraan</b><br>Indonesia</p>
       
         <h2>SOSIAL MEDIA</h2>
-        <p>@rexxx_9</p>
+        <p>@rafli_9</p>
     </div>
 
     <!-- CONTENT -->

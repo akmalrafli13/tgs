@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -61,7 +62,7 @@
             <li>MCGG</li>
             <li>MLBB</li>
       </ul>
-      
+
         <h5 id="kontak">KONTAK</h5>
         <p>📞 08123456789</p>
         <p>✉️ rafli@email.com</p>
